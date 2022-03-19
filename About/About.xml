@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Long-Range Mining Finished</name>
+	<author>1trickPwnyta</author>
+	<packageId>longrangeminingfinished.1trickPwnyta</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>
+How many times have you noticed that your miners are idle after finishing mining at a remote mining site discovered by the long-range mineral scanner and wondered how long they had been idle for? Maybe they had enough food to finish mining and come home, but not to camp out there indefinitely.
+
+This mod shows a message at the top of the screen when your miners have finished mining at a remote site. You can configure other ways for the mod to alert you as well, including showing an alert or sending a letter.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+If you enjoy my work and want to support me and my family, I take donations at:
+https://ko-fi.com/1trickpwnyta
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	</description>
+	<url>https://github.com/1trickPwnyta/LongRangeMiningFinished</url>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>

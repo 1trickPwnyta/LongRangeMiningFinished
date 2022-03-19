@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LongRangeMiningFinished_Communication>{0} has finished mining.</LongRangeMiningFinished_Communication>
+	<LongRangeMiningFinished_LetterLabel>Mining finished</LongRangeMiningFinished_LetterLabel>
+	<LongRangeMiningFinished_CommunicationType>Communication type</LongRangeMiningFinished_CommunicationType>
+</LanguageData>
