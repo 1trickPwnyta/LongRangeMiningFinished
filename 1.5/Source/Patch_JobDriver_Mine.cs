@@ -23,7 +23,7 @@ namespace LongRangeMiningFinished
                 if (__instance.job == null)
                 {
                     Pawn actor = mineToil.actor;
-                    if (!actor.Map.IsPlayerHome && actor.Map.AllCells.Where(cell => actor.Map.designationManager.DesignationAt(cell, DesignationDefOf.Mine) != null).Count() == 0)
+                    if (!actor.Map.IsPlayerHome && actor.Map.AllCells.Where(cell => actor.Map.designationManager.DesignationAt(cell, DesignationDefOf.Mine) != null || actor.Map.designationManager.DesignationAt(cell, DesignationDefOf.MineVein) != null).Count() == 0)
                     {
                         Debug.Log("com type = " + LongRangeMiningFinishedSettings.ComType);
                         switch (LongRangeMiningFinishedSettings.ComType)

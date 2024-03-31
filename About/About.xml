@@ -14,6 +14,7 @@ How many times have you noticed that your miners are idle after finishing mining
 This mod shows a message at the top of the screen when your miners have finished mining at a remote site. You can also configure the mod to send you a letter on completion instead.
 
 === Updates ===
+03/31/2024: Fixed bug where the message appears after every cell mined when using the Mine Vein command
 03/21/2024: Updated to 1.5
 10/26/2022: Updated to 1.4
 	</description>
